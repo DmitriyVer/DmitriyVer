@@ -8,4 +8,4 @@
 - 🧠 Plans: To master working with databases like MySQL and MongoDB, and create scalable applications. I also plan to develop a project based on microservice architecture.
 - 💡 I believe programming is a powerful tool for solving complex problems, and I always strive to implement innovative solutions that bring real value to businesses.
 - 🚀 Goal: To become part of a development team where I can apply my knowledge and work on ambitious projects that improve both business and quality of life.
-Теперь ваше описание на английском полностью отражает вашу цель стать Java-
+
